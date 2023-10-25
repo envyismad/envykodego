@@ -106,7 +106,7 @@
                 <h2 class='text-4xl text-purple-900 font-extrabold lg:w-1/2 mb-3'>We Offer Best Services </h2>
                 <p class='lg:w-3/4 text-xl text-[white] mb-3 py-4'>Our team of seasoned professionals provides personalized recommendations and valuable insights to ensure that your event is meticulously organized and tailored to your specific requirements. From intricate details to special arrangements, our consultation services are designed to help you curate an exceptional and memorable occasion, perfectly aligned with your vision and preferences</p>
     
-                <a href="/events" class="bg-white hover:bg-gray-200 text-gray-800 font-bold py-2 px-4 rounded">Learn More...</a>
+                <a href="/services" class="bg-white hover:bg-gray-200 text-gray-800 font-bold py-2 px-4 rounded">Learn More...</a>
     
             </div>
     

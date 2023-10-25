@@ -36,13 +36,8 @@ Route::get('/aboutus', function () {
 });
 
 
-Route::get('/contactus', function () {
-    return app(ContactController::class)->show();
-});
-
-Route::post('/contactus', function () {
-    return app(ContactController::class)->store();
-})->name('contact.store');
+Route::get('/contactus', [ContactController::class, 'show']);
+Route::post('/contactus', [ContactController::class, 'store'])->name('contact.store');
 
 
 
